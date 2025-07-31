@@ -34,7 +34,7 @@ npm run dev
 ```
 ---
 ## 📄 Notes
-<a href="docs/graphql-notes.pdf" target="_blank">
+<a href="docs/notes_graphQL.pdf" target="_blank">
   <img src="https://img.shields.io/badge/GraphQL%20Notes-Download-blueviolet?style=flat-square&logo=graphql&logoColor=white" alt="Download GraphQL Notes PDF" />
 </a>
 
