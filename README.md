@@ -31,3 +31,24 @@ git clone https://github.com/your-username/graphql-backend-playground.git
 cd graphql-backend-playground
 npm install
 npm run dev
+```
+---
+## 📄 Notes
+<a href="docs/graphql-notes.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/GraphQL%20Notes-Download-blueviolet?style=flat-square&logo=graphql&logoColor=white" alt="Download GraphQL Notes PDF" />
+</a>
+
+
+> [!NOTE]
+> ### 📘 Why These Notes?
+> I have the memory of a goldfish 😅, and flipping through documentation while coding can be confusing.  
+> These notes are my personal anchor when navigating GraphQL docs.
+>
+> AND Yes, I **use colors** because- life’s so gray (not *grey*)... at least notes should have colors😂  Also, some compensation for my **not so nice** handwriting🤧!
+>
+> #### 🗂️ Why include them *here*?
+> Because... **why not?** 😄
+
+
+
+
